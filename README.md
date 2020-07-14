@@ -4,3 +4,6 @@ https://www.wikiwand.com/en/Pig_(dice_game)
 
 To play:
 Player 1 starts, they can roll until they get a 1, updating their current score, and they can choose to 'bank it' to their global score, or until they get a 1, thus it will be player 2s turn. Switching back and forth until one player has their global score reach 100.
+
+
+Update: The website is now live on Heroku! Click the link inside the github description to view it!
